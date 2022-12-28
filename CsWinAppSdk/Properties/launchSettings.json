@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CsWinAppSdk (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CsWinAppSdk (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
